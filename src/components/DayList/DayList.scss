@@ -1,8 +1,9 @@
 .dayList {
   display: grid;
+  max-width: 1920px;
   justify-content: center;
   align-items: center;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
-  gap: 20px;
+  grid-template-columns: 10% 10% 10% 10% 10% 10% 10% ;
+  gap: 2%;
   margin: 20px;
 }
