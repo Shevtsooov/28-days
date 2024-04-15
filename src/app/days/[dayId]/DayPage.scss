@@ -1,0 +1,22 @@
+.dayPage {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 40px;
+
+  &__title {
+    margin: 0 auto;
+  }
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 40px;
+
+  &__frame {
+    width: 100%;
+    height: 1050px;
+  }
+}

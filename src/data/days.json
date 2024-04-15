@@ -1,0 +1,446 @@
+[
+  {
+    "id": "0",
+    "name": "День 0",
+    "videos": [
+      {
+        "id": "random-id-2",
+        "name": "Челендж з присідань - інструкція",
+        "link": "https://fast.wistia.net/embed/iframe/e3tg8ag32k"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "День 1",
+    "videos": [
+      {
+        "id": "random-id-1",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/e3tg8ag32k"
+      },
+      {
+        "id": "random-id-2",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/5rl2ud8m9b"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "День 2",
+    "videos": [
+      {
+        "id": "random-id-3",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/c7i4i28fnm"
+      },
+      {
+        "id": "random-id-4",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/c474t60d6r"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "День 3",
+    "videos": [
+      {
+        "id": "random-id-5",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/d6p4alzqgh"
+      },
+      {
+        "id": "random-id-6",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/4cls3im1d0"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "День 4",
+    "videos": [
+      {
+        "id": "random-id-7",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/fuplbovx21"
+      },
+      {
+        "id": "random-id-8",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/lscq8w80hi"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "День 5",
+    "videos": [
+      {
+        "id": "random-id-9",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/mforjvmqx9"
+      },
+      {
+        "id": "random-id-10",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/djbtktibhk"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "День 6",
+    "videos": [
+      {
+        "id": "random-id-11",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/ncmt0bwfiz"
+      },
+      {
+        "id": "random-id-12",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/h4dzjpy6co"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "День 7",
+    "videos": [
+      {
+        "id": "random-id-13",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/tvtukicv7q"
+      },
+      {
+        "id": "random-id-14",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/f4mbtpet1t"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "День 8",
+    "videos": [
+      {
+        "id": "random-id-15",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/4dx9i1qxre"
+      },
+      {
+        "id": "random-id-16",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/rlzhq9jn4k"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "День 9",
+    "videos": [
+      {
+        "id": "random-id-17",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/74e4syc2au"
+      },
+      {
+        "id": "random-id-18",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/10f37qowfe"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "День 10",
+    "videos": [
+      {
+        "id": "random-id-19",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/3zi30mjj61"
+      },
+      {
+        "id": "random-id-20",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/3nbc5w9fkh"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "День 11",
+    "videos": [
+      {
+        "id": "random-id-21",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/z9c111l2td"
+      },
+      {
+        "id": "random-id-22",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/h75zthifu4"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "День 12",
+    "videos": [
+      {
+        "id": "random-id-23",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/6z4zip54ns"
+      },
+      {
+        "id": "random-id-24",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/i0m644mwhp"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "День 13",
+    "videos": [
+      {
+        "id": "random-id-25",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/n2uhl5rtea"
+      },
+      {
+        "id": "random-id-26",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/8gftrylsw2"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "День 14",
+    "videos": [
+      {
+        "id": "random-id-27",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/p4uzerdu5g"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "День 15",
+    "videos": [
+      {
+        "id": "random-id-28",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/8zdcgi3nmd"
+      },
+      {
+        "id": "random-id-29",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/uew7baabv6"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "День 16",
+    "videos": [
+      {
+        "id": "random-id-30",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/19kbupxh93"
+      },
+      {
+        "id": "random-id-31",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/wowe2iuywm"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "День 17",
+    "videos": [
+      {
+        "id": "random-id-32",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/b2kzm01z7g"
+      },
+      {
+        "id": "random-id-33",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/0d8oi7uzyo"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "День 18",
+    "videos": [
+      {
+        "id": "random-id-34",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/6d8t7cnnbd"
+      },
+      {
+        "id": "random-id-35",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/85ptey4xxi"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "День 19",
+    "videos": [
+      {
+        "id": "random-id-36",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/s8ssucv7i0"
+      },
+      {
+        "id": "random-id-37",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/boxq7og5oa"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "День 20",
+    "videos": [
+      {
+        "id": "random-id-38",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/tz5yrsdwg3"
+      },
+      {
+        "id": "random-id-39",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/ks24vzlyqc"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "День 21",
+    "videos": [
+      {
+        "id": "random-id-40",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/di8cs6lvwo"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "День 22",
+    "videos": [
+      {
+        "id": "random-id-41",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/jbgw51f55v"
+      },
+      {
+        "id": "random-id-42",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/uq236y55tg"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "День 23",
+    "videos": [
+      {
+        "id": "random-id-43",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/l24o16ybai"
+      },
+      {
+        "id": "random-id-44",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/f6aj2bnwwd"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "День 24",
+    "videos": [
+      {
+        "id": "random-id-45",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/fjmsrab1hl"
+      },
+      {
+        "id": "random-id-46",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/lowhifrfcp"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "День 25",
+    "videos": [
+      {
+        "id": "random-id-47",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/8ix3qmo1ms"
+      },
+      {
+        "id": "random-id-48",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/bld3u9sqpc"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "День 26",
+    "videos": [
+      {
+        "id": "random-id-49",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/ag7o5u2u6y"
+      },
+      {
+        "id": "random-id-50",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/74c6x9dnca"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "День 27",
+    "videos": [
+      {
+        "id": "random-id-51",
+        "name": "Тренування",
+        "link": "https://fast.wistia.net/embed/iframe/742pksfpeh"
+      },
+      {
+        "id": "random-id-52",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/v58yxv0f1z"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "День 28",
+    "videos": [
+      {
+        "id": "random-id-53",
+        "name": "Челендж з присідань",
+        "link": "https://fast.wistia.net/embed/iframe/t1427y8sy1"
+      }
+    ]
+  }
+]
